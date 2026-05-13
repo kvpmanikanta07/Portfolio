@@ -53,7 +53,7 @@ I'm a Master's student at **Technische Universität Hamburg (TUHH)** specialisin
 
 ## 🚀 Featured Projects
 
-### 🔬 [TCAD Simulation – High-Voltage SiC MPS Diodes](https://github.com/YOUR_USERNAME/SiC-MPS-Diode-TCAD-Simulation)
+### 🔬 [TCAD Simulation – High-Voltage SiC MPS Diodes](https://github.com/kvpmanikanta07/SiC-MPS-Diode-TCAD-Simulation)
 > *Active Research · TUHH · Supervised by Prof. H. Kapels · 2026*
 
 Parametric simulation of **JTE and field plate edge termination structures** in 4H-SiC MPS Diodes using Synopsys Sentaurus TCAD. Focus on maximising breakdown voltage and identifying reliability-critical design parameters.
@@ -62,7 +62,7 @@ Parametric simulation of **JTE and field plate edge termination structures** in 
 
 ---
 
-### ⚙️ [Verilog HDL Projects](https://github.com/YOUR_USERNAME/Verilog-HDL-Projects)
+### ⚙️ [Verilog HDL Projects](https://github.com/kvpmanikanta07/Verilog-HDL-Projects)
 > *Digital Logic Design · Xilinx Vivado*
 
 Collection of digital logic design modules implemented in **Verilog HDL**, simulated and synthesised using Xilinx Vivado.
@@ -71,7 +71,7 @@ Collection of digital logic design modules implemented in **Verilog HDL**, simul
 
 ---
 
-### 🖥️ [ESP32 Custom PCB Design](https://github.com/YOUR_USERNAME/ESP32-Custom-PCB)
+### 🖥️ [ESP32 Custom PCB Design](https://github.com/kvpmanikanta07/ESP32-Custom-PCB)
 > *Hardware Design · 2023*
 
 Full custom PCB designed in **Altium Designer** — schematic capture, custom component library creation, component placement, and routing.
@@ -80,7 +80,7 @@ Full custom PCB designed in **Altium Designer** — schematic capture, custom co
 
 ---
 
-### 🐍 [Automotive Validation Python Scripts](https://github.com/YOUR_USERNAME/Automotive-Validation-Scripts)
+### 🐍 [Automotive Validation Python Scripts](https://github.com/kvpmanikanta07/Automotive-Validation-Scripts)
 > *ZF Friedrichshafen AG · 2022–2024*
 
 Python automation scripts for ECU measurement data analysis and reporting — reduced manual processing time by **~40%**.
@@ -102,14 +102,14 @@ Python automation scripts for ECU measurement data analysis and reporting — re
 
 ## 💼 Work Experience
 
-**Engineer – Automotive Electronics Validation** · ZF Friedrichshafen AG, Hyderabad *(July 2022 – August 2024)*
+**Engineer – Automotive Electronics Validation** · ZF Friedrichshafen AG *(July 2022 – August 2024)*
 - Structured measurement and validation campaigns for automotive ECUs
 - Failure mode analysis, root cause documentation, and design improvement support
-- Python scripts for data automation — reduced processing time by ~40%
+- Python automation — reduced manual processing time by ~40%
 - ISO-regulated technical documentation
 
-**Engineering Intern** · Cognizant, Hyderabad *(Feb 2022 – May 2022)*
-- Python and SQL training applied to data handling and workflow automation
+**Engineering Intern** · Cognizant *(Feb 2022 – May 2022)*
+- Python and SQL for data handling and workflow automation
 
 ---
 
@@ -122,10 +122,9 @@ Python automation scripts for ECU measurement data analysis and reporting — re
 
 ## 📫 Get in Touch
 
-- 📧 **Email:** manikantakurella2000@gmail.com
-- 💼 **LinkedIn:** [Manikanta Kurella](https://www.linkedin.com/in/manikanta-kurella)
-- 📍 **Location:** Hamburg, Germany
-- 📞 +49 15560708782
+- 📧 manikantakurella2000@gmail.com
+- 💼 [LinkedIn – Manikanta Kurella](https://www.linkedin.com/in/manikanta-kurella)
+- 📍 Hamburg, Germany
 
 ---
 
